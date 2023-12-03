@@ -1,2 +1,0 @@
-# datasciencecourserepo
-my repo
